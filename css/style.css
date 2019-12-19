@@ -5,6 +5,9 @@ h1,ul{
   color:#e37c4f;
   font-family:arial;
 }
-a:link{
-  color:#008f8c;
+a{
+  color:#008f8c ;
+}
+a:hover{
+  color:#00838c ;
 }
