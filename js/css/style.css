@@ -1,0 +1,19 @@
+body{
+  background-color:purple;
+}
+h1,h2,ul{
+  color:#e37c4f;
+  font-family:arial;
+}
+a{
+  color:#008f8c ;
+}
+a:hover{
+  color:#00838c ;
+}
+div {
+  width: 300px;
+  border: 15px dotted white;
+  padding: 50px;
+  margin: 20px;
+}
