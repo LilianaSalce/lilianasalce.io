@@ -1,13 +1,62 @@
 body{
   background-color:purple;
 }
-h1,ul{
+
+h1,h2,ul{
   color:#e37c4f;
   font-family:arial;
 }
+img {
+  border-radius: 8px;
+}
+
 a{
-  color:#008f8c ;
+  color:white;
 }
 a:hover{
   color:#00838c ;
+}
+div.a{
+  width: 600px;
+border: 15px; dotted :white;
+  padding: 50px;
+  margin: 20px;
+}
+#myHeader {
+  background-color:#fc0349;
+  color: white;
+  padding: 40px;
+  text-align: center;
+  font-family:cursive;
+}
+table, th, td {
+  border: 1px solid:#e37c4f ;
+  padding: 5px;
+}
+table {
+  border-spacing: 15px;
+}
+.Goals {
+  background-color: black;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+}
+h5,p{
+  font-family:monospace;
+  font-size: 20px;
+}
+h4,tr{
+  font-family:cursive;
+  color:white;
+  font-size: 30px;
+}
+#myDIV {
+  width: 500px;
+  height: 500px;
+  background-color: lightblue;
+}
+h2::first-line {
+  color:#e37c4f;
+  font-variant: small-caps;
 }
